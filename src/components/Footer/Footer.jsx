@@ -13,7 +13,7 @@ const Footer = () => {
                 </div>
                 <div className='text-center p-2 bg-purple-300'>
                     <p>© 2026 NoteNest • Built with React & Tailwind CSS.</p>
-                    <a href="#"className='hover:text-purple-700' > Built with ♥ Github<i className="ri-github-fill text-2xl ml-3"></i></a>
+                    <a href="https://github.com/M-Aayan/NoteNest-" target='_blank' className='hover:text-purple-700' > Built with ♥ Github<i className="ri-github-fill text-2xl ml-3"></i></a>
                 </div>
             </footer>
         </div>

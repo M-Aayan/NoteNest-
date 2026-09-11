@@ -8,7 +8,7 @@ const Header = () => {
             <ul className='flex gap-2 sm:gap-10 p-2 sm:p-4 font-medium text-[16px]  sm:mr-20'>
                 <li><a href="#" className=' hover:text-purple-500 '>Home</a></li>
                 <li><a href="#" className=' hover:text-purple-500 '>About</a></li>
-                <li><a href="#" className=' hover:text-purple-500 '>Github</a></li>
+                <li><a href="https://github.com/M-Aayan" className=' hover:text-purple-500 '>Github</a></li>
             </ul>
         </nav>
     </div>
