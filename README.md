@@ -56,7 +56,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # 📖 About
 
-**NoteNest** is a simple and beginner-friendly notes web application built with **React**.
+**NoteNest** is a simple and Beginner-friendly notes web application built with **React**.
 
 The project was created as a practical way to learn React by building a real working application instead of only following tutorials or writing small practice examples.
 
