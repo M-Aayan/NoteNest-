@@ -1,13 +1,19 @@
 {
+<<<<<<< HEAD
   "homepage": "https://M-Aayan.github.io/NoteNest-",
+=======
+>>>>>>> 43e24c8a34ea739e44d7add16c21d02e01a6a55b
   "name": "notes-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+=======
+>>>>>>> 43e24c8a34ea739e44d7add16c21d02e01a6a55b
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
@@ -27,7 +33,10 @@
     "eslint": "^10.8.0",
     "eslint-plugin-react-hooks": "^7.1.1",
     "eslint-plugin-react-refresh": "^0.5.3",
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+>>>>>>> 43e24c8a34ea739e44d7add16c21d02e01a6a55b
     "globals": "^17.7.0",
     "vite": "^8.2.0"
   }
